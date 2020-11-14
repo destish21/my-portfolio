@@ -1,0 +1,94 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.navbar-expand {
+    padding: 5px;
+    margin: 0px;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    text-align: center;
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+
+body {
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: rgba(204, 204, 204, 0.726);
+}
+
+#container{
+    padding-top: 0px, 20px;
+    margin: 0, 0, 0, 20px;
+
+}
+
+#form-cont {
+    padding: 20px;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px red solid;
+    background-color: white;
+    width: 92%;
+}
+
+ .form-control {
+     background-color: #fff;
+    text-align: left;
+    font-size: 20px;
+    padding: 20px;
+    line-height: auto;
+    font-weight: bold;
+} 
+
+h1 {
+    background-color: lightseagreen;
+    font-family: serif;
+    color: white;
+    font-size: 2em;
+    padding: 5px;
+    margin: 20px;
+}
+
+h2 {
+    color: lightseagreen;
+    font-family: serif;
+    font-size: 50px;
+}
+.btn-primary {
+    font-size: 20px;
+    color: #fff;
+    background-color:  lightseagreen ;
+    border-color:lightseagreen;
+    width: 10rem;
+}
+
+/* a:hover.btn-primary {
+    color: blue;
+}
+ */
+@media screen and (min-width:425px) and (max-width:1223px) {
+     
+#form-cont {
+        width: 50%;
+        /* display: block; */
+    }
+}
+ /* @media screen and (min-width:1023px) and (max-width:1223pxpx) {
+    #form-cont  {
+width: 39%;
+display: block;
+
+    }
+}
+  */
+
