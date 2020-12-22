@@ -54,15 +54,16 @@ h1 {
     background-color: lightseagreen;
     font-family: serif;
     color: white;
-    font-size: 2em;
-    padding: 5px;
+    font-size: 1em;
+    padding: 10px;
     margin: 20px;
 }
 
 h2 {
     color: lightseagreen;
     font-family: serif;
-    font-size: 50px;
+    padding: 10px;
+    font-size: 40px;
 }
 .btn-primary {
     font-size: 20px;
@@ -72,23 +73,15 @@ h2 {
     width: 10rem;
 }
 
-/* a:hover.btn-primary {
+a:hover.btn-primary {
     color: blue;
 }
- */
-@media screen and (min-width:425px) and (max-width:1223px) {
-     
-#form-cont {
-        width: 50%;
-        /* display: block; */
-    }
-}
- /* @media screen and (min-width:1023px) and (max-width:1223pxpx) {
+
+@media screen  and (min-width:500px) {
     #form-cont  {
-width: 39%;
+width: 60%;
 display: block;
 
     }
 }
-  */
 

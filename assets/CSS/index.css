@@ -37,42 +37,31 @@ body {
     margin-right: 10px;
     border: 1px red solid;
     background-color: white;
-    width: 92%;
+    max-width: 800px;
 }
 
 h1 {
     background-color: lightseagreen;
     font-family: serif;
     color: white;
-    font-size: 2em;
-    padding: 5px;
+    font-size: 1em;
+    padding: 10px;
     margin: 20px;
 }
 h2 {
     color: lightseagreen;
     font-family: serif;
-    font-size: 50px;
+    padding: 10px;
+    font-size: 40px;
 }
 img {
     float: left;
     margin: 20px;
 }
-.footer {
-    background-color: rgba(204, 204, 204, 0.726);
-    color: white;
-    padding: 20px, auto;
-    margin-bottom:0 ;
-}
 
 @media screen and (min-width:425px) and (max-width:1023px) {
     .Me {
-        width: 90%;
+        width: 80%;
         display: block;
     }
 }
-/* @media screen and (min-width:425px) and (max-width:1223pxpx) {
-    body {
-width: 39%;
-    }
-} */
-

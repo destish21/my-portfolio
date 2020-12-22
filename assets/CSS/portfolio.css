@@ -47,29 +47,29 @@ img {
     margin-right: 30px;
     border: 1px red solid;
     background-color: white;
-    width: 39%;
+    max-width: 800px;
 }
 
 h1 {
-background-color: lightseagreen;
-color: white;
-font-family: serif;
-padding: 20px, 20px;
+    background-color: lightseagreen;
+    font-family: serif;
+    color: white;
+    font-size: 1em;
+    padding: 10px;
+    margin: 20px;
+
 }
 
 h2 {
     color: lightseagreen;
     font-family: serif;
-     padding: 30px;
-     font-size: 50px;
+    padding: 10px;
+     font-size: 40px;
 }
-/* .footer {
-    
-} */
+
 @media screen and (min-width:425px) and (max-width:1223px) {
     .my-port {
-        width: 92%;
-        /* display: block; */
+        width: 90%;
         position: static;
         display: block;
     }
