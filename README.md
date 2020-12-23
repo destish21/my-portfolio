@@ -11,4 +11,4 @@ I use semantic syntax for adjust my html.
 
 ![my-portfolio](Portfolio.png)
 
-URL: https://destish21.github.io/my-portfolio/
+URL: https://destish21.github.io/
