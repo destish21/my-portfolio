@@ -31,7 +31,7 @@ body {
 
 #form-cont {
     padding: 20px;
-    font-size: 25px;
+    font-size: 15px;
     margin-top: 60px;
     margin-bottom: 60px;
     margin-left: 30px;
@@ -44,7 +44,7 @@ body {
  .form-control {
      background-color: #fff;
     text-align: left;
-    font-size: 20px;
+    font-size: 10px;
     padding: 20px;
     line-height: auto;
     font-weight: bold;
