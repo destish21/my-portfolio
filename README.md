@@ -5,10 +5,10 @@ I add the javascript to be active my navbar link.
 I attached the or linked media quiry to response my web page.
 I use semantic syntax for adjust my html.
 
-![my-portfolio](./assets/images/AboutMe.png)
+![my-portfolio](/assets/images/AboutMe.png)
 
-![my-portfolio](./assets/image/Contact.png)
+![my-portfolio](/assets/image/Contact.png)
 
-![my-portfolio](./assets/image/Portfolio.png)
+![my-portfolio](/assets/image/Portfolio.png)
 
 URL:  https://destish21.github.io/my-portfolio/
