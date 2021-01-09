@@ -26,13 +26,6 @@ body {
     min-height: 100vh; 
 }
 
-/* body {
-    background-color: #8c8c9d;
-    background-image:url('./assets/images/city1.jpg') no-repeat center center fixed;
-    background-size: cover;
-    min-height: 100vh;  
-}
- */
 #container{
     padding-top: 0px, 20px;
     margin: 0;
