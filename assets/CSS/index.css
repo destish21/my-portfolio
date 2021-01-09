@@ -21,9 +21,18 @@ body {
     font-weight: 400;
     line-height: 1.5;
     background-color: rgba(204, 204, 204, 0.726);
-
+    background: url('../images/city1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; 
 }
 
+/* body {
+    background-color: #8c8c9d;
+    background-image:url('./assets/images/city1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;  
+}
+ */
 #container{
     padding-top: 0px, 20px;
     margin: 0;
@@ -34,10 +43,11 @@ body {
     margin-top: 60px;
     margin-bottom: 60px;
     margin-left: 10px;
-    margin-right: 10px;
-    border: 1px red solid;
+    margin-right: 0px;
+    /* border: 1px red solid; */
     background-color: white;
-    max-width: 800px;
+    max-width: 1000px;
+
 }
 
 h1 {
@@ -51,13 +61,33 @@ h1 {
 h2 {
     color: lightseagreen;
     font-family: serif;
-    padding: 10px;
+    padding: 0px;
+    margin: 0;
     font-size: 40px;
 }
 img {
     float: left;
-    margin: 20px;
+    margin: 10px;
 }
+.col-md-6 {
+    float: left;
+}
+.p1 {
+margin-top:0;
+}
+footer {
+    background-color: #333;
+    color: #aaa9a0;
+     position: relative; 
+     height: 3.22rem; 
+     padding:auto; 
+     bottom: 0;
+      width: 100%; 
+      /* border-top: 5px green solid; */
+    }
+    footer p{
+        text-align: center;
+    }
 
 @media screen and (min-width:425px) and (max-width:1023px) {
     .Me {
