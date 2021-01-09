@@ -7,7 +7,7 @@ I use semantic syntax for adjust my html.
 
 ![my-portfolio](./assets/Images/aboutme1.png)
 
-![my-portfolio](./assets/images/aboutme2.png)
+![my-portfolio](./assets/Images/aboutme2.png)
 
 ![my-portfolio](./assets/Images/contact1.png)
 
