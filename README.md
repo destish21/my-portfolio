@@ -1,4 +1,4 @@
-# my-portfolio
+# My-Portfolio
 
 I used Bootstrap link to fixed navbar and as well as font awesome.min.css.
 I add the javascript to be active my navbar link.
