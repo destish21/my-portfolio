@@ -26,6 +26,9 @@ body {
     font-weight: 400;
     line-height: 1.5;
     background-color: rgba(204, 204, 204, 0.726);
+    background: url('../Images/BlueNile.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; 
     
 } 
 
@@ -50,9 +53,9 @@ img {
 }
 
 h1 {
-    background-color: lightseagreen;
+    /* background-color: lightseagreen; */
     font-family: serif;
-    color: white;
+    color: black;
     font-size: 28px;
     padding: 10px 0;
     margin: 0px;

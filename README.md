@@ -16,12 +16,10 @@ Screenshot of my first project some of my home work projeckes with their github 
 ![my-portfolio](./assets/Images/Contact-1.png)
 ![my-portfolio](./assets/Images/Contact-2.png)
 
-
 ![my-portfolio](./assets/Images/Uportfolio-1.png)
 ![my-portfolio](./assets/Images/Uportfolio-2.png)
 ![my-portfolio](./assets/Images/Uportfolio-3.png)
 ![my-portfolio](./assets/Images/Uportfolio-4.png)
-
 
 Github link: [my-portfolio](https://github.com/destish21/my-portfolio)
 
